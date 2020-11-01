@@ -1,6 +1,7 @@
 {
     "name": "electron-snippets",
     "displayName": "Electron Snippets",
+    "author": "Antonio Ramirez",
     "description": "A collection of handy ElectronJS snippets.",
     "version": "1.0.0",
     "engines": {
