@@ -4,7 +4,7 @@
     "author": "Antonio Ramirez",
     "publisher": "antoniormrzz",
     "description": "A collection of handy ElectronJS snippets.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -13,7 +13,6 @@
     ],
     "contributes": {
         "snippets": [{
-            "language": "javascript",
             "path": "./snippets/snippets.code-snippets"
         }]
     },
