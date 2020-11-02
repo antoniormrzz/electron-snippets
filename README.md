@@ -1,6 +1,6 @@
 # electron-snippets
-
-A collection of handy snippets for ElectronJS.
+<span class="badge-patreon"><a href="https://patreon.com/antoniormrzz" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span><br/>
+A collection of handy snippets for ElectronJS. If this does help you, please check out my [Patreon](https://www.patreon.com/bePatron?u=44856855) plans to donate. 🤝
 
 ## Snippets
 
